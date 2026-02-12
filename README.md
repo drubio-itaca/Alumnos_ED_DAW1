@@ -38,16 +38,16 @@ portfolio-clase-2026/
 
 ---
 
-## Conflictos
+## Resolver un conflicto
 
-No os preocupe
+En algún momento el profesor realizará cambios en un archivo que también habrás modificado.
+Cuando intentes actualizar tu repositorio, aparecerá un conflicto.
 
+Deberás:
+- Detectar el conflicto
+- Editar el archivo manualmente
+- Resolverlo correctamente
+- Hacer commit del merge
 
-Proyecto educativo para practicar:
-- Fork
-- Clone
-- Branch
-- Commit
-- Push
-- Pull Request
-- Resolución de conflictos
+---
+
